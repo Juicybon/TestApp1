@@ -1,0 +1,7 @@
+C:\Users\Juicy\source\repos\TestApp1\TestApp1\bin\Release\net6.0\publish\Settings\settings.json
+C:\Users\Juicy\source\repos\TestApp1\TestApp1\bin\Release\net6.0\publish\TestApp1.exe
+C:\Users\Juicy\source\repos\TestApp1\TestApp1\bin\Release\net6.0\publish\TestApp1.dll
+C:\Users\Juicy\source\repos\TestApp1\TestApp1\bin\Release\net6.0\publish\TestApp1.deps.json
+C:\Users\Juicy\source\repos\TestApp1\TestApp1\bin\Release\net6.0\publish\TestApp1.runtimeconfig.json
+C:\Users\Juicy\source\repos\TestApp1\TestApp1\bin\Release\net6.0\publish\TestApp1.pdb
+C:\Users\Juicy\source\repos\TestApp1\TestApp1\bin\Release\net6.0\publish\Newtonsoft.Json.dll

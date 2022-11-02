@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QrVaud5fZmCRKJBPM2Uxg9PMgo8elsGQ8QKYEc7mm9Lh+Ab85zsmNbKi1TiB0HJV0aMw2RSnBij5tWg0nHTgUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juicy\\source\\repos\\TestApp1\\TestApp1\\TestApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juicy\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
